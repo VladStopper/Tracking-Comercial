@@ -22,7 +22,8 @@ This is a web application where users can register and upload leads. The platfor
 
 ## Video Tutorial
 
-- Check out the step-by-step setup tutorial in [this video](video_link).
+- Check out the step-by-step setup tutorial in [this demo video](https://www.youtube.com/watch?v=54YPCrpZpY0).
+- For additional guidance on making the website functional, watch [this tutorial](https://www.youtube.com/watch?v=7qM46RCOM5Y).
 
 ## Notes
 - Ensure you have Node.js and npm installed.
